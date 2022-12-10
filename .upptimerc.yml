@@ -8,7 +8,13 @@ sites:
   - name: Firmentabata
     url: https://firmentabata.de
   - name: Tauronik IT Support
-    url: https://support.tauronik.de
+    url: https://support.tauromax.de
+  - name: Tauronik IT Wiki
+    url: https://wiki.tauronik.de
+  - name: Tauronik IT Webmail  
+    url: https://webmail.tauronik.de
+  - name: Tanzschule Teltow
+    url: https://www.tanzschule-teltow.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
