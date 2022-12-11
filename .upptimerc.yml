@@ -35,7 +35,7 @@ status-website:
       href: https://www.tauronik.de/impressum/
   links:
     - rel: stylesheet
-      href: assets/custom.css      
+      href: https://raw.githubusercontent.com/tauronik/tauro-upptime/master/assets/custom.css      
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
