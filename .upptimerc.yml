@@ -3,17 +3,25 @@ owner: tauronik # Your GitHub organization or username, where this repository li
 repo: tauro-upptime # The name of this repository
 
 sites:
-  - name: Tauronik IT Website
+  - name: www.tauronik.de
     url: https://www.tauronik.de
-  - name: Firmentabata
+  - name: firmentabata.de
     url: https://firmentabata.de
-  - name: Tauronik IT Support
+  - name: support.tauromax.de
     url: https://support.tauromax.de
-  - name: Tauronik IT Wiki
+  - name: wiki.tauronik.de
     url: https://wiki.tauronik.de
-  - name: Tauronik IT Webmail  
+  - name: webmail.tauronik.de  
     url: https://webmail.tauronik.de
-  - name: Tanzschule Teltow
+  - name: Server JULIET
+    url: https://juliet.tauronik.de:5001
+  - name: Server CHARLY
+    url: https://charlie.tauronik.de:5001
+  - name: Server BRAVO
+    url: https://bravo.tauronik.de:10000
+  - name: Server TNK-VH-02
+    url: https://tnk-vh-02.tauronik.de:8006         
+  - name: www.tanzschule-teltow.de
     url: https://www.tanzschule-teltow.de
 
 status-website:
