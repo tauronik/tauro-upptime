@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 570,
-    "timeDay": 570,
-    "timeWeek": 570,
-    "timeMonth": 570,
-    "timeYear": 570,
+    "time": 777,
+    "timeDay": 777,
+    "timeWeek": 777,
+    "timeMonth": 777,
+    "timeYear": 777,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 971,
-    "timeDay": 971,
-    "timeWeek": 971,
-    "timeMonth": 971,
-    "timeYear": 971,
+    "time": 1167,
+    "timeDay": 1167,
+    "timeWeek": 1167,
+    "timeMonth": 1167,
+    "timeYear": 1167,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 595,
-    "timeDay": 595,
-    "timeWeek": 595,
-    "timeMonth": 595,
-    "timeYear": 595,
+    "time": 762,
+    "timeDay": 762,
+    "timeWeek": 762,
+    "timeMonth": 762,
+    "timeYear": 762,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 485,
-    "timeDay": 485,
-    "timeWeek": 485,
-    "timeMonth": 485,
-    "timeYear": 485,
+    "time": 650,
+    "timeDay": 650,
+    "timeWeek": 650,
+    "timeMonth": 650,
+    "timeYear": 650,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 395,
-    "timeWeek": 395,
-    "timeMonth": 395,
-    "timeYear": 395,
+    "time": 536,
+    "timeDay": 536,
+    "timeWeek": 536,
+    "timeMonth": 536,
+    "timeYear": 536,
     "dailyMinutesDown": {}
   },
   {
@@ -95,18 +95,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/juliet.tauronik.de.ico",
     "slug": "server-juliet",
     "status": "down",
-    "uptime": "59.28%",
-    "uptimeDay": "59.28%",
-    "uptimeWeek": "59.28%",
-    "uptimeMonth": "59.28%",
-    "uptimeYear": "59.28%",
+    "uptime": "14.08%",
+    "uptimeDay": "14.08%",
+    "uptimeWeek": "14.08%",
+    "uptimeMonth": "14.08%",
+    "uptimeYear": "14.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-11": 0
+      "2022-12-11": 3
     }
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 938,
-    "timeDay": 938,
-    "timeWeek": 938,
-    "timeMonth": 938,
-    "timeYear": 938,
+    "time": 1241,
+    "timeDay": 1241,
+    "timeWeek": 1241,
+    "timeMonth": 1241,
+    "timeYear": 1241,
     "dailyMinutesDown": {}
   },
   {
@@ -138,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1272,
-    "timeDay": 1272,
-    "timeWeek": 1272,
-    "timeMonth": 1272,
-    "timeYear": 1272,
+    "time": 1609,
+    "timeDay": 1609,
+    "timeWeek": 1609,
+    "timeMonth": 1609,
+    "timeYear": 1609,
     "dailyMinutesDown": {}
   },
   {
@@ -151,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tnk-vh-02.tauronik.de.ico",
     "slug": "server-tnk-vh-02",
     "status": "down",
-    "uptime": "8.67%",
-    "uptimeDay": "8.67%",
-    "uptimeWeek": "8.67%",
-    "uptimeMonth": "8.67%",
-    "uptimeYear": "8.67%",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-11": 0
+      "2022-12-11": 3
     }
   },
   {
@@ -176,11 +176,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 528,
-    "timeDay": 528,
-    "timeWeek": 528,
-    "timeMonth": 528,
-    "timeYear": 528,
+    "time": 701,
+    "timeDay": 701,
+    "timeWeek": 701,
+    "timeMonth": 701,
+    "timeYear": 701,
     "dailyMinutesDown": {}
   }
 ]
