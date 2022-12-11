@@ -25,7 +25,7 @@ status-website:
   name: Tauronik Upptime
   theme: dark
   introTitle: "Tauronik IT Systemhaus **Webservice Status Page**"
-  introMessage: **Real-time** website status page
+  introMessage: "**Real-time** website status page"
   navbar:
     - title: Status
       href: /
