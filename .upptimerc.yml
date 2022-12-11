@@ -23,7 +23,7 @@ status-website:
   baseUrl: /tauro-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Tauronik Upptime
-  theme: dark
+  theme: night
   introTitle: "Tauronik IT Systemhaus **Webservice Status Page**"
   introMessage: "**Real-time** website status page"
   navbar:
@@ -32,7 +32,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Impressum
-      href: https://www.tauronik.de/impressum/
+      href: https://www.tauronik.de/impressum.html
   links:
     - rel: stylesheet
       href: https://cdn.statically.io/gh/tauronik/tauro-upptime/master/assets/custom.css     
