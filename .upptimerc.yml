@@ -39,10 +39,10 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
     - title: Impressum
       href: https://www.tauronik.de/impressum.html
+    - title: Tauronik IT
+      href: https://www.tauronik.de
   links:
     - rel: stylesheet
       href: https://cdn.statically.io/gh/tauronik/tauro-upptime/master/assets/custom.css     
