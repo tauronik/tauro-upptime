@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tauronik.de.ico",
     "slug": "www-tauronik-de",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.81%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 741,
     "timeDay": 928,
     "timeWeek": 741,
     "timeMonth": 741,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2022-12-18": 4
+      "2022-12-18": 19
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/firmentabata.de.ico",
     "slug": "firmentabata-de",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.82%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 1624,
     "timeDay": 1156,
     "timeWeek": 1624,
     "timeMonth": 1624,
     "timeYear": 1624,
     "dailyMinutesDown": {
-      "2022-12-18": 3
+      "2022-12-18": 18
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.tauromax.de.ico",
     "slug": "support-tauromax-de",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.82%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 709,
     "timeDay": 628,
     "timeWeek": 709,
     "timeMonth": 709,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2022-12-18": 3
+      "2022-12-18": 18
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.tauronik.de.ico",
     "slug": "wiki-tauronik-de",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.83%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 624,
     "timeDay": 503,
     "timeWeek": 624,
     "timeMonth": 624,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2022-12-18": 2
+      "2022-12-18": 17
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/webmail.tauronik.de.ico",
     "slug": "webmail-tauronik-de",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.83%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 550,
     "timeDay": 902,
     "timeWeek": 550,
     "timeMonth": 550,
     "timeYear": 550,
     "dailyMinutesDown": {
-      "2022-12-18": 2
+      "2022-12-18": 17
     }
   },
   {
@@ -116,7 +116,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-18": 839,
+      "2022-12-18": 854,
       "2022-12-17": 1440,
       "2022-12-16": 1440,
       "2022-12-15": 1440,
@@ -149,19 +149,19 @@
     "url": "https://bravo.tauronik.de:10000",
     "icon": "https://icons.duckduckgo.com/ip3/bravo.tauronik.de.ico",
     "slug": "server-bravo",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1527,
-    "timeDay": 1419,
-    "timeWeek": 1527,
-    "timeMonth": 1527,
-    "timeYear": 1527,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 1541,
+    "timeDay": 1560,
+    "timeWeek": 1541,
+    "timeMonth": 1541,
+    "timeYear": 1541,
     "dailyMinutesDown": {
-      "2022-12-18": 1
+      "2022-12-18": 15
     }
   },
   {
@@ -187,19 +187,19 @@
     "url": "https://www.tanzschule-teltow.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.tanzschule-teltow.de.ico",
     "slug": "www-tanzschule-teltow-de",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 851,
-    "timeDay": 618,
-    "timeWeek": 851,
-    "timeMonth": 851,
-    "timeYear": 851,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 838,
+    "timeDay": 653,
+    "timeWeek": 838,
+    "timeMonth": 838,
+    "timeYear": 838,
     "dailyMinutesDown": {
-      "2022-12-18": 0
+      "2022-12-18": 15
     }
   }
 ]
