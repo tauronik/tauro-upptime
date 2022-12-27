@@ -116,7 +116,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-27": 856,
+      "2022-12-27": 868,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
@@ -180,19 +180,19 @@
     "url": "https://tnk-vh-02.tauronik.de:8006",
     "icon": "https://icons.duckduckgo.com/ip3/tnk-vh-02.tauronik.de.ico",
     "slug": "server-tnk-vh-02",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 499,
-    "timeDay": 320,
-    "timeWeek": 483,
-    "timeMonth": 499,
-    "timeYear": 499,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 495,
+    "timeDay": 368,
+    "timeWeek": 475,
+    "timeMonth": 495,
+    "timeYear": 495,
     "dailyMinutesDown": {
-      "2022-12-27": 0
+      "2022-12-27": 12
     }
   },
   {
