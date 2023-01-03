@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.tauromax.de.ico",
     "slug": "support-tauromax-de",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 731,
     "timeDay": 750,
     "timeWeek": 746,
@@ -116,7 +116,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-03": 31,
+      "2023-01-03": 479,
       "2023-01-02": 1440,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
@@ -147,9 +147,9 @@
     "url": "https://charlie.tauronik.de:5001",
     "icon": "https://icons.duckduckgo.com/ip3/charlie.tauronik.de.ico",
     "slug": "server-charly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.73%",
@@ -159,6 +159,7 @@
     "timeMonth": 1372,
     "timeYear": 1372,
     "dailyMinutesDown": {
+      "2023-01-03": 0,
       "2022-12-20": 87
     }
   },
