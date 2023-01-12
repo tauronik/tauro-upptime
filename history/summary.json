@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tauronik.de.ico",
     "slug": "www-tauronik-de",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 816,
-    "timeDay": 1240,
+    "timeDay": 810,
     "timeWeek": 951,
-    "timeMonth": 816,
+    "timeMonth": 828,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2022-12-18": 29
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1726,
-    "timeDay": 1669,
-    "timeWeek": 1695,
-    "timeMonth": 1726,
-    "timeYear": 1726,
+    "time": 1722,
+    "timeDay": 1574,
+    "timeWeek": 1670,
+    "timeMonth": 1820,
+    "timeYear": 1722,
     "dailyMinutesDown": {
       "2022-12-18": 28
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 745,
-    "timeDay": 610,
-    "timeWeek": 797,
-    "timeMonth": 745,
-    "timeYear": 745,
+    "time": 746,
+    "timeDay": 785,
+    "timeWeek": 822,
+    "timeMonth": 750,
+    "timeYear": 746,
     "dailyMinutesDown": {
       "2022-12-18": 28
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 832,
-    "timeDay": 530,
-    "timeWeek": 701,
-    "timeMonth": 832,
-    "timeYear": 832,
+    "time": 828,
+    "timeDay": 655,
+    "timeWeek": 716,
+    "timeMonth": 853,
+    "timeYear": 828,
     "dailyMinutesDown": {
       "2022-12-18": 27
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 607,
-    "timeDay": 427,
-    "timeWeek": 788,
-    "timeMonth": 607,
-    "timeYear": 607,
+    "time": 605,
+    "timeDay": 525,
+    "timeWeek": 802,
+    "timeMonth": 618,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2022-12-18": 27
     }
@@ -116,7 +116,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-11": 33,
+      "2023-01-12": 33,
+      "2023-01-11": 1440,
       "2023-01-10": 1440,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
@@ -156,16 +157,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/charlie.tauronik.de.ico",
     "slug": "server-charly",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
-    "time": 1414,
-    "timeDay": 1250,
-    "timeWeek": 1389,
-    "timeMonth": 1414,
-    "timeYear": 1414,
+    "uptimeYear": "99.75%",
+    "time": 1418,
+    "timeDay": 1552,
+    "timeWeek": 1476,
+    "timeMonth": 1427,
+    "timeYear": 1418,
     "dailyMinutesDown": {
       "2023-01-03": 27,
       "2022-12-20": 87
@@ -177,16 +178,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bravo.tauronik.de.ico",
     "slug": "server-bravo",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1635,
-    "timeDay": 2119,
-    "timeWeek": 1848,
-    "timeMonth": 1635,
-    "timeYear": 1635,
+    "uptimeYear": "99.97%",
+    "time": 1633,
+    "timeDay": 1552,
+    "timeWeek": 1892,
+    "timeMonth": 1643,
+    "timeYear": 1633,
     "dailyMinutesDown": {
       "2022-12-18": 15
     }
@@ -202,11 +203,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 354,
-    "timeWeek": 533,
+    "time": 508,
+    "timeDay": 525,
+    "timeWeek": 550,
     "timeMonth": 507,
-    "timeYear": 507,
+    "timeYear": 508,
     "dailyMinutesDown": {}
   },
   {
@@ -220,11 +221,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 651,
-    "timeWeek": 774,
-    "timeMonth": 759,
-    "timeYear": 759,
+    "time": 758,
+    "timeDay": 705,
+    "timeWeek": 792,
+    "timeMonth": 710,
+    "timeYear": 758,
     "dailyMinutesDown": {}
   }
 ]
