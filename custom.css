@@ -1,0 +1,10 @@
+.container {max-width: 80%; }
+
+section.live-status {
+  -webkit-columns: 3 400px;
+     -moz-columns: 3 400px;
+          columns: 3 400px;
+}
+article {
+  display: inline-block;
+}
