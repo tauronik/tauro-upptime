@@ -1,7 +1,7 @@
 url: https://charlie.tauronik.de:5001
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-23T08:30:55.664Z
+status: up
+code: 200
+responseTime: 1172
+lastUpdated: 2024-02-23T08:40:47.064Z
 startTime: 2022-12-11T16:59:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
