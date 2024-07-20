@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 816,
-    "timeDay": 739,
-    "timeWeek": 707,
-    "timeMonth": 745,
-    "timeYear": 830,
+    "timeDay": 596,
+    "timeWeek": 689,
+    "timeMonth": 742,
+    "timeYear": 829,
     "dailyMinutesDown": {
       "2024-03-23": 706,
       "2024-03-22": 252,
@@ -34,9 +34,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 887,
-    "timeDay": 783,
-    "timeWeek": 841,
+    "time": 886,
+    "timeDay": 657,
+    "timeWeek": 823,
     "timeMonth": 837,
     "timeYear": 875,
     "dailyMinutesDown": {
@@ -53,18 +53,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.tauromax.de.ico",
     "slug": "support-tauromax-de",
     "status": "down",
-    "uptime": "37.18%",
+    "uptime": "37.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "4.34%",
-    "time": 770,
+    "time": 769,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 815,
     "dailyMinutesDown": {
-      "2024-07-19": 42,
+      "2024-07-20": 33,
+      "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
@@ -411,8 +412,7 @@
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
-      "2023-07-22": 1440,
-      "2023-07-21": 1440
+      "2023-07-22": 1440
     }
   },
   {
@@ -427,10 +427,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 677,
-    "timeDay": 480,
-    "timeWeek": 644,
-    "timeMonth": 646,
-    "timeYear": 689,
+    "timeDay": 776,
+    "timeWeek": 649,
+    "timeMonth": 652,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2024-03-23": 706,
       "2024-03-22": 251,
@@ -451,8 +451,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 551,
-    "timeDay": 466,
-    "timeWeek": 541,
+    "timeDay": 402,
+    "timeWeek": 528,
     "timeMonth": 500,
     "timeYear": 560,
     "dailyMinutesDown": {
@@ -479,7 +479,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-19": 42,
+      "2024-07-20": 33,
+      "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
@@ -842,8 +843,7 @@
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
-      "2023-07-22": 1440,
-      "2023-07-21": 1440
+      "2023-07-22": 1440
     }
   },
   {
@@ -857,11 +857,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1262,
-    "timeDay": 801,
-    "timeWeek": 1033,
-    "timeMonth": 1039,
-    "timeYear": 1208,
+    "time": 1261,
+    "timeDay": 729,
+    "timeWeek": 972,
+    "timeMonth": 1029,
+    "timeYear": 1206,
     "dailyMinutesDown": {
       "2024-06-17": 26,
       "2024-05-14": 22,
@@ -880,16 +880,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bravo.tauronik.de.ico",
     "slug": "server-bravo",
     "status": "up",
-    "uptime": "89.50%",
+    "uptime": "89.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.33%",
+    "uptimeYear": "92.61%",
     "time": 1634,
-    "timeDay": 1357,
-    "timeWeek": 1851,
-    "timeMonth": 1593,
-    "timeYear": 1623,
+    "timeDay": 1334,
+    "timeWeek": 1496,
+    "timeMonth": 1594,
+    "timeYear": 1622,
     "dailyMinutesDown": {
       "2024-03-23": 698,
       "2024-03-22": 249,
@@ -919,8 +919,7 @@
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
-      "2023-07-22": 1440,
-      "2023-07-21": 1440
+      "2023-07-22": 1440
     }
   },
   {
@@ -935,10 +934,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 490,
-    "timeDay": 465,
-    "timeWeek": 456,
-    "timeMonth": 464,
-    "timeYear": 487,
+    "timeDay": 622,
+    "timeWeek": 478,
+    "timeMonth": 465,
+    "timeYear": 488,
     "dailyMinutesDown": {
       "2023-10-15": 22
     }
@@ -954,11 +953,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 731,
-    "timeDay": 619,
-    "timeWeek": 681,
-    "timeMonth": 770,
-    "timeYear": 747,
+    "time": 729,
+    "timeDay": 541,
+    "timeWeek": 653,
+    "timeMonth": 771,
+    "timeYear": 746,
     "dailyMinutesDown": {
       "2024-03-23": 698,
       "2024-03-22": 249,
