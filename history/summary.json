@@ -63,7 +63,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-19": 1065,
+      "2025-05-19": 1129,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
@@ -433,7 +433,7 @@
     "timeMonth": 1638,
     "timeYear": 1482,
     "dailyMinutesDown": {
-      "2025-05-19": 1066,
+      "2025-05-19": 1130,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
@@ -848,7 +848,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bravo.tauronik.de.ico",
     "slug": "server-bravo",
     "status": "up",
-    "uptime": "93.04%",
+    "uptime": "93.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
@@ -872,19 +872,19 @@
     "url": "https://tnk-vh-02.tauronik.de:8006",
     "icon": "https://icons.duckduckgo.com/ip3/tnk-vh-02.tauronik.de.ico",
     "slug": "server-tnk-vh-02",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.99%",
     "time": 461,
-    "timeDay": 504,
-    "timeWeek": 413,
-    "timeMonth": 452,
+    "timeDay": 521,
+    "timeWeek": 429,
+    "timeMonth": 454,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2025-05-19": 0
+      "2025-05-19": 64
     }
   },
   {
