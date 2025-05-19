@@ -63,7 +63,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-19": 50,
+      "2025-05-19": 1065,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
@@ -433,7 +433,7 @@
     "timeMonth": 1638,
     "timeYear": 1482,
     "dailyMinutesDown": {
-      "2025-05-19": 50,
+      "2025-05-19": 1066,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
@@ -872,9 +872,9 @@
     "url": "https://tnk-vh-02.tauronik.de:8006",
     "icon": "https://icons.duckduckgo.com/ip3/tnk-vh-02.tauronik.de.ico",
     "slug": "server-tnk-vh-02",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -883,7 +883,9 @@
     "timeWeek": 413,
     "timeMonth": 452,
     "timeYear": 460,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-19": 0
+    }
   },
   {
     "name": "Server TNK-VH-03",
