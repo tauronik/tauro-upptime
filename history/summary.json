@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 924,
-    "timeDay": 1133,
+    "timeDay": 610,
     "timeWeek": 819,
-    "timeMonth": 852,
+    "timeMonth": 842,
     "timeYear": 970,
     "dailyMinutesDown": {
       "2025-07-06": 22,
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 954,
-    "timeDay": 1331,
-    "timeWeek": 1019,
-    "timeMonth": 1021,
+    "timeDay": 964,
+    "timeWeek": 1039,
+    "timeMonth": 1008,
     "timeYear": 990,
     "dailyMinutesDown": {
       "2025-02-23": 18,
@@ -62,7 +62,8 @@
     "timeMonth": 0,
     "timeYear": 3759,
     "dailyMinutesDown": {
-      "2025-08-26": 46,
+      "2025-08-27": 44,
+      "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -425,8 +426,7 @@
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
-      "2024-08-28": 1440,
-      "2024-08-27": 1440
+      "2024-08-28": 1440
     }
   },
   {
@@ -441,9 +441,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 693,
-    "timeDay": 924,
-    "timeWeek": 766,
-    "timeMonth": 869,
+    "timeDay": 594,
+    "timeWeek": 765,
+    "timeMonth": 863,
     "timeYear": 716,
     "dailyMinutesDown": {
       "2025-04-01": 19,
@@ -463,10 +463,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 921,
-    "timeDay": 6595,
-    "timeWeek": 1581,
-    "timeMonth": 928,
+    "time": 922,
+    "timeDay": 654,
+    "timeWeek": 1599,
+    "timeMonth": 929,
     "timeYear": 1089,
     "dailyMinutesDown": {
       "2025-06-02": 17,
@@ -497,7 +497,8 @@
     "timeMonth": 1405,
     "timeYear": 1375,
     "dailyMinutesDown": {
-      "2025-08-26": 46,
+      "2025-08-27": 44,
+      "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -859,8 +860,7 @@
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
-      "2024-08-28": 1440,
-      "2024-08-27": 1440
+      "2024-08-28": 1440
     }
   },
   {
@@ -874,10 +874,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.46%",
-    "time": 1124,
-    "timeDay": 1151,
-    "timeWeek": 1101,
-    "timeMonth": 1144,
+    "time": 1123,
+    "timeDay": 1106,
+    "timeWeek": 1142,
+    "timeMonth": 1137,
     "timeYear": 1136,
     "dailyMinutesDown": {
       "2025-04-13": 1117,
@@ -907,16 +907,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bravo.tauronik.de.ico",
     "slug": "server-bravo",
     "status": "up",
-    "uptime": "93.73%",
+    "uptime": "93.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 1708,
-    "timeDay": 1371,
-    "timeWeek": 1452,
-    "timeMonth": 2149,
-    "timeYear": 1767,
+    "time": 1707,
+    "timeDay": 1320,
+    "timeWeek": 1442,
+    "timeMonth": 2137,
+    "timeYear": 1766,
     "dailyMinutesDown": {
       "2025-08-23": 24,
       "2025-07-07": 20,
@@ -940,10 +940,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 461,
-    "timeDay": 660,
-    "timeWeek": 458,
-    "timeMonth": 455,
-    "timeYear": 462,
+    "timeDay": 511,
+    "timeWeek": 471,
+    "timeMonth": 452,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2025-05-19": 64
     }
@@ -960,9 +960,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 461,
-    "timeDay": 673,
-    "timeWeek": 490,
-    "timeMonth": 470,
+    "timeDay": 536,
+    "timeWeek": 519,
+    "timeMonth": 466,
     "timeYear": 461,
     "dailyMinutesDown": {}
   }
