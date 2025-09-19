@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 903,
-    "timeDay": 802,
-    "timeWeek": 928,
-    "timeMonth": 873,
+    "timeDay": 886,
+    "timeWeek": 929,
+    "timeMonth": 866,
     "timeYear": 974,
     "dailyMinutesDown": {
       "2025-07-06": 22,
@@ -29,15 +29,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/firmentabata.de.ico",
     "slug": "firmentabata-de",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 962,
-    "timeDay": 880,
-    "timeWeek": 1022,
-    "timeMonth": 1062,
+    "timeDay": 1058,
+    "timeWeek": 1015,
+    "timeMonth": 1053,
     "timeYear": 997,
     "dailyMinutesDown": {
       "2025-02-23": 18,
@@ -62,7 +62,8 @@
     "timeMonth": 0,
     "timeYear": 3759,
     "dailyMinutesDown": {
-      "2025-09-18": 42,
+      "2025-09-19": 44,
+      "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -425,8 +426,7 @@
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
-      "2024-09-20": 1440,
-      "2024-09-19": 1440
+      "2024-09-20": 1440
     }
   },
   {
@@ -440,11 +440,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 707,
-    "timeDay": 787,
-    "timeWeek": 743,
-    "timeMonth": 863,
-    "timeYear": 731,
+    "time": 708,
+    "timeDay": 983,
+    "timeWeek": 779,
+    "timeMonth": 867,
+    "timeYear": 732,
     "dailyMinutesDown": {
       "2025-04-01": 19,
       "2025-02-23": 18,
@@ -464,9 +464,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1065,
-    "timeDay": 846,
-    "timeWeek": 4375,
-    "timeMonth": 2711,
+    "timeDay": 583,
+    "timeWeek": 4386,
+    "timeMonth": 2707,
     "timeYear": 1276,
     "dailyMinutesDown": {
       "2025-06-02": 17,
@@ -497,7 +497,8 @@
     "timeMonth": 1134,
     "timeYear": 1319,
     "dailyMinutesDown": {
-      "2025-09-18": 42,
+      "2025-09-19": 44,
+      "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1185,
       "2025-09-15": 616,
@@ -859,8 +860,7 @@
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
-      "2024-09-20": 1440,
-      "2024-09-19": 1440
+      "2024-09-20": 1440
     }
   },
   {
@@ -875,9 +875,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.46%",
     "time": 1125,
-    "timeDay": 1187,
-    "timeWeek": 1126,
-    "timeMonth": 1171,
+    "timeDay": 987,
+    "timeWeek": 1092,
+    "timeMonth": 1163,
     "timeYear": 1132,
     "dailyMinutesDown": {
       "2025-04-13": 1117,
@@ -897,8 +897,7 @@
       "2024-09-24": 814,
       "2024-09-23": 1034,
       "2024-09-22": 618,
-      "2024-09-20": 249,
-      "2024-09-19": 54
+      "2024-09-20": 249
     }
   },
   {
@@ -907,16 +906,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bravo.tauronik.de.ico",
     "slug": "server-bravo",
     "status": "up",
-    "uptime": "93.87%",
+    "uptime": "93.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
     "time": 1843,
-    "timeDay": 1384,
-    "timeWeek": 4550,
-    "timeMonth": 3019,
-    "timeYear": 1926,
+    "timeDay": 1612,
+    "timeWeek": 4878,
+    "timeMonth": 3009,
+    "timeYear": 1925,
     "dailyMinutesDown": {
       "2025-09-08": 19,
       "2025-08-23": 24,
@@ -941,9 +940,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 466,
-    "timeDay": 534,
-    "timeWeek": 507,
-    "timeMonth": 532,
+    "timeDay": 536,
+    "timeWeek": 501,
+    "timeMonth": 531,
     "timeYear": 468,
     "dailyMinutesDown": {
       "2025-05-19": 64
@@ -961,10 +960,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 465,
-    "timeDay": 434,
-    "timeWeek": 533,
-    "timeMonth": 526,
-    "timeYear": 467,
+    "timeDay": 367,
+    "timeWeek": 520,
+    "timeMonth": 522,
+    "timeYear": 466,
     "dailyMinutesDown": {}
   }
 ]
