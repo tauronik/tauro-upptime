@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 913,
-    "timeDay": 629,
-    "timeWeek": 841,
-    "timeMonth": 963,
+    "timeDay": 798,
+    "timeWeek": 817,
+    "timeMonth": 965,
     "timeYear": 986,
     "dailyMinutesDown": {
       "2025-07-06": 22,
@@ -33,10 +33,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 969,
-    "timeDay": 799,
-    "timeWeek": 977,
-    "timeMonth": 1042,
+    "time": 970,
+    "timeDay": 960,
+    "timeWeek": 984,
+    "timeMonth": 1044,
     "timeYear": 1001,
     "dailyMinutesDown": {
       "2025-02-23": 18,
@@ -60,7 +60,8 @@
     "timeMonth": 0,
     "timeYear": 3759,
     "dailyMinutesDown": {
-      "2025-10-03": 1307,
+      "2025-10-04": 40,
+      "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
@@ -423,8 +424,7 @@
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
-      "2024-10-05": 1440,
-      "2024-10-04": 1440
+      "2024-10-05": 1440
     }
   },
   {
@@ -438,10 +438,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 714,
-    "timeDay": 640,
-    "timeWeek": 698,
-    "timeMonth": 810,
+    "time": 715,
+    "timeDay": 774,
+    "timeWeek": 660,
+    "timeMonth": 812,
     "timeYear": 738,
     "dailyMinutesDown": {
       "2025-04-01": 19,
@@ -456,17 +456,16 @@
     "slug": "webmail-tauronik-de",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 1180,
-    "timeDay": 10738,
-    "timeWeek": 5545,
+    "timeDay": 10728,
+    "timeWeek": 5542,
     "timeMonth": 3558,
     "timeYear": 1410,
     "dailyMinutesDown": {
-      "2025-10-03": 9,
       "2025-09-24": 18,
       "2025-06-02": 17,
       "2025-06-01": 50,
@@ -495,7 +494,8 @@
     "timeMonth": 1234,
     "timeYear": 1315,
     "dailyMinutesDown": {
-      "2025-10-03": 1307,
+      "2025-10-04": 40,
+      "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
@@ -857,8 +857,7 @@
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
-      "2024-10-05": 1440,
-      "2024-10-04": 1440
+      "2024-10-05": 1440
     }
   },
   {
@@ -871,18 +870,17 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.10%",
     "time": 1127,
-    "timeDay": 873,
-    "timeWeek": 1144,
-    "timeMonth": 1168,
-    "timeYear": 1132,
+    "timeDay": 1211,
+    "timeWeek": 1185,
+    "timeMonth": 1182,
+    "timeYear": 1133,
     "dailyMinutesDown": {
       "2025-04-13": 1117,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
-      "2025-04-10": 244,
-      "2024-10-04": 538
+      "2025-04-10": 244
     }
   },
   {
@@ -892,17 +890,16 @@
     "slug": "server-bravo",
     "status": "up",
     "uptime": "93.97%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1921,
-    "timeDay": 9765,
-    "timeWeek": 4097,
-    "timeMonth": 4336,
+    "time": 1922,
+    "timeDay": 10011,
+    "timeWeek": 4125,
+    "timeMonth": 4342,
     "timeYear": 2105,
     "dailyMinutesDown": {
-      "2025-10-03": 8,
       "2025-09-08": 19,
       "2025-08-23": 24,
       "2025-07-07": 20,
@@ -924,11 +921,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 468,
-    "timeDay": 445,
-    "timeWeek": 552,
-    "timeMonth": 536,
-    "timeYear": 472,
+    "time": 467,
+    "timeDay": 528,
+    "timeWeek": 551,
+    "timeMonth": 535,
+    "timeYear": 473,
     "dailyMinutesDown": {
       "2025-05-19": 64
     }
@@ -945,10 +942,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 468,
-    "timeDay": 393,
-    "timeWeek": 534,
-    "timeMonth": 545,
-    "timeYear": 471,
+    "timeDay": 406,
+    "timeWeek": 516,
+    "timeMonth": 546,
+    "timeYear": 470,
     "dailyMinutesDown": {}
   }
 ]
