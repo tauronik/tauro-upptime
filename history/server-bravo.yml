@@ -1,7 +1,7 @@
 url: https://bravo.tauronik.de:10000
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-07T22:36:02.007Z
+status: up
+code: 200
+responseTime: 3697
+lastUpdated: 2025-11-07T22:55:15.228Z
 startTime: 2022-12-11T16:59:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
