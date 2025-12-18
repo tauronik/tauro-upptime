@@ -7,15 +7,12 @@ sites:
     url: https://www.tauronik.de
   - name: firmentabata.de
     url: https://firmentabata.de
-  - name: papi.tauromax.de
-    url: https://papi.tauromax.de/monitoring
+  - name: doc.tauromax.de
+    url: https://doc.tauromax.de
   - name: wiki.tauronik.de
     url: https://wiki.tauronik.de
   - name: webmail.tauronik.de  
     url: https://webmail.tauronik.de
-  - name: Server JULIET
-    url: https://juliet.tauronik.de:5001
-    __dangerous__insecure: true
   - name: Server CHARLY
     url: https://charlie.tauronik.de:5001
   - name: Server BRAVO
