@@ -50,9 +50,9 @@
     "url": "https://doc.tauromax.de",
     "icon": "https://icons.duckduckgo.com/ip3/doc.tauromax.de.ico",
     "slug": "doc-tauromax-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
@@ -62,6 +62,7 @@
     "timeMonth": 644,
     "timeYear": 683,
     "dailyMinutesDown": {
+      "2026-04-09": 0,
       "2026-03-11": 43
     }
   },
