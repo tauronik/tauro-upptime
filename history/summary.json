@@ -62,16 +62,16 @@
     "url": "https://doc.tauromax.de",
     "icon": "https://icons.duckduckgo.com/ip3/doc.tauromax.de.ico",
     "slug": "doc-tauromax-de",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.88%",
     "uptimeYear": "98.83%",
     "time": 680,
-    "timeDay": 622,
+    "timeDay": 666,
     "timeWeek": 708,
-    "timeMonth": 682,
+    "timeMonth": 683,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2026-03-11": 43,
@@ -81,7 +81,8 @@
       "2026-05-08": 92,
       "2026-05-11": 91,
       "2026-05-17": 462,
-      "2026-05-16": 831
+      "2026-05-16": 831,
+      "2026-05-27": 0
     }
   },
   {
@@ -177,7 +178,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bravo.tauronik.de.ico",
     "slug": "server-bravo",
     "status": "up",
-    "uptime": "94.89%",
+    "uptime": "94.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.98%",
