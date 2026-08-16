@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tauronik.de.ico",
     "slug": "www-tauronik-de",
     "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "95.66%",
-    "uptimeMonth": "90.67%",
-    "uptimeYear": "98.43%",
+    "uptime": "99.40%",
+    "uptimeDay": "44.86%",
+    "uptimeWeek": "88.07%",
+    "uptimeMonth": "89.68%",
+    "uptimeYear": "98.28%",
     "time": 1372,
     "timeDay": 1101,
     "timeWeek": 4950,
@@ -36,7 +36,7 @@
       "2026-07-27": 211,
       "2026-08-09": 48,
       "2026-08-10": 361,
-      "2026-08-16": 29
+      "2026-08-16": 794
     }
   },
   {
@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/firmentabata.de.ico",
     "slug": "firmentabata-de",
     "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "95.95%",
-    "uptimeMonth": "90.77%",
-    "uptimeYear": "98.46%",
+    "uptime": "99.41%",
+    "uptimeDay": "45.19%",
+    "uptimeWeek": "88.36%",
+    "uptimeMonth": "89.77%",
+    "uptimeYear": "98.31%",
     "time": 1033,
     "timeDay": 1029,
     "timeWeek": 1619,
@@ -75,7 +75,7 @@
       "2026-07-27": 207,
       "2026-08-10": 361,
       "2026-08-09": 23,
-      "2026-08-16": 25
+      "2026-08-16": 789
     }
   },
   {
@@ -84,11 +84,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/doc.tauromax.de.ico",
     "slug": "doc-tauromax-de",
     "status": "down",
-    "uptime": "97.93%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "91.70%",
-    "uptimeYear": "97.93%",
+    "uptime": "97.72%",
+    "uptimeDay": "45.52%",
+    "uptimeWeek": "92.22%",
+    "uptimeMonth": "90.68%",
+    "uptimeYear": "97.72%",
     "time": 666,
     "timeDay": 537,
     "timeWeek": 578,
@@ -111,7 +111,7 @@
       "2026-07-24": 432,
       "2026-07-23": 336,
       "2026-07-27": 202,
-      "2026-08-16": 20
+      "2026-08-16": 784
     }
   },
   {
@@ -120,11 +120,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.tauronik.de.ico",
     "slug": "wiki-tauronik-de",
     "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "96.09%",
-    "uptimeMonth": "90.87%",
-    "uptimeYear": "98.48%",
+    "uptime": "99.41%",
+    "uptimeDay": "45.86%",
+    "uptimeWeek": "88.50%",
+    "uptimeMonth": "89.85%",
+    "uptimeYear": "98.33%",
     "time": 1059,
     "timeDay": 642,
     "timeWeek": 745,
@@ -149,7 +149,7 @@
       "2026-07-27": 197,
       "2026-08-10": 361,
       "2026-08-09": 18,
-      "2026-08-16": 15
+      "2026-08-16": 780
     }
   },
   {
@@ -158,11 +158,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/webmail.tauronik.de.ico",
     "slug": "webmail-tauronik-de",
     "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "96.19%",
-    "uptimeMonth": "90.93%",
-    "uptimeYear": "98.45%",
+    "uptime": "99.40%",
+    "uptimeDay": "46.20%",
+    "uptimeWeek": "88.60%",
+    "uptimeMonth": "89.89%",
+    "uptimeYear": "98.30%",
     "time": 1771,
     "timeDay": 476,
     "timeWeek": 541,
@@ -196,7 +196,7 @@
       "2026-07-27": 192,
       "2026-08-10": 361,
       "2026-08-09": 13,
-      "2026-08-16": 10
+      "2026-08-16": 775
     }
   },
   {
@@ -225,11 +225,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bravo.tauronik.de.ico",
     "slug": "server-bravo",
     "status": "down",
-    "uptime": "94.97%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "96.91%",
-    "uptimeMonth": "91.13%",
-    "uptimeYear": "98.46%",
+    "uptime": "94.94%",
+    "uptimeDay": "46.53%",
+    "uptimeWeek": "89.32%",
+    "uptimeMonth": "90.08%",
+    "uptimeYear": "98.32%",
     "time": 2607,
     "timeDay": 2008,
     "timeWeek": 1946,
@@ -265,7 +265,7 @@
       "2026-07-27": 187,
       "2026-08-10": 298,
       "2026-08-09": 8,
-      "2026-08-16": 5
+      "2026-08-16": 770
     }
   },
   {
@@ -293,14 +293,14 @@
     "url": "https://tnk-vh-03.tauronik.de:8006",
     "icon": "https://icons.duckduckgo.com/ip3/tnk-vh-03.tauronik.de.ico",
     "slug": "server-tnk-vh-03",
-    "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.01%",
-    "uptimeYear": "98.76%",
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "46.89%",
+    "uptimeWeek": "92.41%",
+    "uptimeMonth": "90.95%",
+    "uptimeYear": "98.61%",
     "time": 501,
-    "timeDay": 470,
+    "timeDay": 489,
     "timeWeek": 506,
     "timeMonth": 511,
     "timeYear": 516,
@@ -319,7 +319,7 @@
       "2026-07-24": 432,
       "2026-07-23": 317,
       "2026-07-27": 182,
-      "2026-08-16": 0
+      "2026-08-16": 765
     }
   }
 ]
