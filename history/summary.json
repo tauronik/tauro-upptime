@@ -4,17 +4,17 @@
     "url": "https://www.tauronik.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.tauronik.de.ico",
     "slug": "www-tauronik-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.09%",
-    "uptimeYear": "97.61%",
-    "time": 1324,
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "90.05%",
+    "uptimeYear": "97.60%",
+    "time": 1326,
     "timeDay": 840,
     "timeWeek": 1177,
     "timeMonth": 1264,
-    "timeYear": 1474,
+    "timeYear": 1476,
     "dailyMinutesDown": {
       "2025-10-09": 24,
       "2025-11-23": 871,
@@ -43,7 +43,8 @@
       "2026-08-25": 322,
       "2026-08-27": 632,
       "2026-08-31": 566,
-      "2026-09-01": 336
+      "2026-09-01": 336,
+      "2026-09-13": 20
     }
   },
   {
@@ -51,12 +52,12 @@
     "url": "https://firmentabata.de",
     "icon": "https://icons.duckduckgo.com/ip3/firmentabata.de.ico",
     "slug": "firmentabata-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.19%",
-    "uptimeYear": "97.65%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "90.16%",
+    "uptimeYear": "97.64%",
     "time": 1023,
     "timeDay": 776,
     "timeWeek": 984,
@@ -89,7 +90,8 @@
       "2026-08-25": 322,
       "2026-08-27": 628,
       "2026-08-31": 556,
-      "2026-09-01": 336
+      "2026-09-01": 336,
+      "2026-09-13": 15
     }
   },
   {
@@ -98,11 +100,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/doc.tauromax.de.ico",
     "slug": "doc-tauromax-de",
     "status": "up",
-    "uptime": "97.05%",
+    "uptime": "97.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.32%",
-    "uptimeYear": "97.05%",
+    "uptimeYear": "97.06%",
     "time": 667,
     "timeDay": 532,
     "timeWeek": 638,
@@ -140,13 +142,13 @@
     "url": "https://wiki.tauronik.de",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.tauronik.de.ico",
     "slug": "wiki-tauronik-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.44%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "90.42%",
     "uptimeYear": "97.68%",
-    "time": 1007,
+    "time": 1008,
     "timeDay": 705,
     "timeWeek": 686,
     "timeMonth": 774,
@@ -177,7 +179,8 @@
       "2026-08-25": 322,
       "2026-08-27": 618,
       "2026-08-31": 538,
-      "2026-09-01": 336
+      "2026-09-01": 336,
+      "2026-09-13": 10
     }
   },
   {
@@ -185,17 +188,17 @@
     "url": "https://webmail.tauronik.de",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.tauronik.de.ico",
     "slug": "webmail-tauronik-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.54%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "90.53%",
     "uptimeYear": "97.66%",
-    "time": 1634,
+    "time": 1636,
     "timeDay": 425,
     "timeWeek": 564,
     "timeMonth": 579,
-    "timeYear": 1631,
+    "timeYear": 1632,
     "dailyMinutesDown": {
       "2025-09-24": 18,
       "2025-10-07": 17,
@@ -231,7 +234,8 @@
       "2026-08-25": 322,
       "2026-08-27": 613,
       "2026-08-31": 528,
-      "2026-09-01": 336
+      "2026-09-01": 336,
+      "2026-09-13": 5
     }
   },
   {
@@ -259,17 +263,17 @@
     "url": "https://bravo.tauronik.de:10000",
     "icon": "https://icons.duckduckgo.com/ip3/bravo.tauronik.de.ico",
     "slug": "server-bravo",
-    "status": "up",
+    "status": "down",
     "uptime": "94.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.64%",
     "uptimeYear": "97.69%",
-    "time": 2601,
+    "time": 2598,
     "timeDay": 2673,
     "timeWeek": 1924,
     "timeMonth": 1837,
-    "timeYear": 2654,
+    "timeYear": 2657,
     "dailyMinutesDown": {
       "2025-10-06": 24,
       "2025-10-08": 20,
@@ -305,7 +309,8 @@
       "2026-08-25": 322,
       "2026-08-27": 608,
       "2026-08-31": 518,
-      "2026-09-01": 336
+      "2026-09-01": 336,
+      "2026-09-13": 0
     }
   },
   {
@@ -323,7 +328,7 @@
     "timeDay": 398,
     "timeWeek": 490,
     "timeMonth": 513,
-    "timeYear": 510,
+    "timeYear": 511,
     "dailyMinutesDown": {
       "2026-06-27": 73
     }
@@ -343,7 +348,7 @@
     "timeDay": 419,
     "timeWeek": 487,
     "timeMonth": 488,
-    "timeYear": 514,
+    "timeYear": 513,
     "dailyMinutesDown": {
       "2026-03-11": 41,
       "2026-04-22": 228,
