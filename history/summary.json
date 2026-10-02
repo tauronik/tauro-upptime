@@ -6,12 +6,12 @@
     "slug": "www-tauronik-de",
     "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "97.52%",
-    "time": 1342,
-    "timeDay": 1423,
+    "uptimeDay": "91.76%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "97.51%",
+    "time": 1343,
+    "timeDay": 0,
     "timeWeek": 1131,
     "timeMonth": 1148,
     "timeYear": 1485,
@@ -46,7 +46,7 @@
       "2026-09-01": 336,
       "2026-09-14": 370,
       "2026-09-13": 46,
-      "2026-10-02": 20
+      "2026-10-02": 119
     }
   },
   {
@@ -56,12 +56,12 @@
     "slug": "firmentabata-de",
     "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.03%",
-    "uptimeYear": "97.57%",
-    "time": 1021,
-    "timeDay": 1136,
+    "uptimeDay": "92.09%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "97.55%",
+    "time": 1022,
+    "timeDay": 0,
     "timeWeek": 888,
     "timeMonth": 935,
     "timeYear": 1023,
@@ -95,7 +95,7 @@
       "2026-09-01": 336,
       "2026-09-14": 370,
       "2026-09-13": 41,
-      "2026-10-02": 15
+      "2026-10-02": 114
     }
   },
   {
@@ -110,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.25%",
     "time": 664,
-    "timeDay": 825,
-    "timeWeek": 623,
-    "timeMonth": 632,
+    "timeDay": 468,
+    "timeWeek": 601,
+    "timeMonth": 627,
     "timeYear": 664,
     "dailyMinutesDown": {
       "2026-03-11": 43,
@@ -148,12 +148,12 @@
     "slug": "wiki-tauronik-de",
     "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "97.60%",
+    "uptimeDay": "92.43%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "97.58%",
     "time": 1013,
-    "timeDay": 875,
+    "timeDay": 0,
     "timeWeek": 827,
     "timeMonth": 757,
     "timeYear": 1132,
@@ -186,7 +186,7 @@
       "2026-09-01": 336,
       "2026-09-14": 370,
       "2026-09-13": 36,
-      "2026-10-02": 10
+      "2026-10-02": 109
     }
   },
   {
@@ -196,12 +196,12 @@
     "slug": "webmail-tauronik-de",
     "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.07%",
-    "uptimeYear": "97.59%",
-    "time": 1591,
-    "timeDay": 805,
+    "uptimeDay": "92.76%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "97.57%",
+    "time": 1593,
+    "timeDay": 0,
     "timeWeek": 650,
     "timeMonth": 601,
     "timeYear": 1478,
@@ -242,7 +242,7 @@
       "2026-09-01": 336,
       "2026-09-14": 370,
       "2026-09-13": 31,
-      "2026-10-02": 5
+      "2026-10-02": 104
     }
   },
   {
@@ -256,11 +256,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 1262,
-    "timeDay": 1476,
-    "timeWeek": 2136,
-    "timeMonth": 1967,
-    "timeYear": 1305,
+    "time": 1264,
+    "timeDay": 1793,
+    "timeWeek": 2087,
+    "timeMonth": 1961,
+    "timeYear": 1306,
     "dailyMinutesDown": {
       "2026-08-11": 421
     }
@@ -271,13 +271,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/bravo.tauronik.de.ico",
     "slug": "server-bravo",
     "status": "down",
-    "uptime": "94.92%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.09%",
-    "uptimeYear": "97.62%",
-    "time": 2585,
-    "timeDay": 1881,
+    "uptime": "94.91%",
+    "uptimeDay": "93.10%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "97.60%",
+    "time": 2587,
+    "timeDay": 0,
     "timeWeek": 1647,
     "timeMonth": 1785,
     "timeYear": 2464,
@@ -319,7 +319,7 @@
       "2026-09-01": 336,
       "2026-09-14": 370,
       "2026-09-13": 26,
-      "2026-10-02": 0
+      "2026-10-02": 99
     }
   },
   {
@@ -333,10 +333,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 503,
-    "timeDay": 594,
-    "timeWeek": 496,
-    "timeMonth": 496,
+    "time": 504,
+    "timeDay": 610,
+    "timeWeek": 512,
+    "timeMonth": 500,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2026-06-27": 73
@@ -354,9 +354,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.99%",
     "time": 508,
-    "timeDay": 617,
-    "timeWeek": 509,
-    "timeMonth": 501,
+    "timeDay": 615,
+    "timeWeek": 524,
+    "timeMonth": 505,
     "timeYear": 511,
     "dailyMinutesDown": {
       "2026-03-11": 41,
